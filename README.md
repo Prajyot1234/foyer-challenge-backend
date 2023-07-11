@@ -21,3 +21,5 @@ npm install
 nodemon index.js
 ```
 
+add openai keys in helper/openai.js
+
